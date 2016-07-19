@@ -1,4 +1,6 @@
 # yars
 Yet another Random Service - Random Generators of names, strings, email, phone number, zip etc.
 
-## coming soon.. 
+## 
+  - make
+  - erl -pa ebin/ deps/*/ebin/ -s yars
